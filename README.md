@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi! I am ✨ Akshay Chipkar ✨, a C++ developer with over 11 years of experience. My journey in open source began with FOSSEE, where I contributed for nearly six years, working on various projects under their main initiative. I have assisted several organizations in achieving their goals through C++ projects, consistently delivering within set timeframes.
+Hi! I am ✨ **Akshay Chipkar** ✨, a C++ developer with over 11 years of experience. My journey in open source began with FOSSEE, where I contributed for nearly six years, working on various projects under their main initiative. I have assisted several organizations in achieving their goals through C++ projects, consistently delivering within set timeframes.
 
 My expertise spans multiple domains, including retail chains, industrial automation, and avionics. I excel in both desktop and embedded software development. Additionally, I have experience in resolving cross-functional issues through effective collaboration and participating in board bring-up activities, working with diverse C++ development toolchains.
 
@@ -19,11 +19,11 @@ Alongside C++, I have extensively used Python to create applications, test frame
 
 **C++ Expertise:** Proficient in writing high-quality applications.
 
+**Python:** Extensively used for creating applications, test frameworks, and test cases.
+
 **Scripting:** Experienced with Docker, CMake, Automake, Shell, Batch, and PowerShell scripts.
 
 **Testing Contributions:** Developed automated test scripts using Catch2 and the Trompeloeil mocking framework.
-
-**Python:** Extensively used for creating applications, test frameworks, and test cases.
 
 **UI/Web Development:** Familiar with libraries such as Qt, Gtk, Wt, Tkinter, Django, and Flask.
 
@@ -31,7 +31,7 @@ Alongside C++, I have extensively used Python to create applications, test frame
 
 ## 🛐️ Projects
 
-- **FOSSEE**: Contributed to the **[OpenPLC-ldmicro](https://github.com/FOSSEE/OpenPLC-ldmicro)** project by adding Arduino-compatible builds and implementing CAD simulations at **[LDmicro](https://github.com/akshay-c/LDmicro)**. I ported the original Windows software to Linux, enhancing accessibility through the **[LDMicroGtk](https://github.com/FOSSEE/LDMicroGtk)** and **[LDmicroQt](https://github.com/FOSSEE/LDmicroQt)** projects. The hardware components were also uploaded to the **[OpenPLC](https://github.com/FOSSEE/OpenPLC)** repository.
+- **FOSSEE**: Contributed to the **[OpenPLC-ldmicro](https://github.com/FOSSEE/OpenPLC-ldmicro)** project by adding Arduino-compatible builds and implementing CAD simulations at **[LDmicro](https://github.com/akshay-c/LDmicro)**. I ported the original Windows software to Linux, enhancing accessibility through the **[LDMicroGtk](https://github.com/FOSSEE/LDMicroGtk)** and **[LDmicroQt](https://github.com/FOSSEE/LDmicroQt)** projects. The hardware components were also uploaded to the **[OpenPLC](https://github.com/FOSSEE/OpenPLC)** repository. You can visit the **[OpenPLC website](https://openplc.fossee.in/)** to know more about the project.
 
 - **Cognizant**: Updated legacy socket-based code to utilize TCP socket communication with the **Pistachio** library for HTTPS. Primarily focused on a retail client’s software, I managed communication between POS devices and servers, implementing manual testing, Docker-based builds, and Automake scripts.
 
