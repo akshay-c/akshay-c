@@ -1,5 +1,4 @@
 # Hi there 👋
-Introduction
 
 Hi! I am ✨ Akshay Chipkar ✨, a C++ developer with over 11 years of experience. My journey in open source began with FOSSEE, where I contributed for nearly six years, working on various projects under their main initiative. I have assisted several organizations in achieving their goals through C++ projects, consistently delivering within set timeframes.
 
@@ -43,3 +42,4 @@ Alongside C++, I have extensively used Python to create applications, test frame
 
 # 📊 GitHub Stats:
 
+![Statistics Unavailable at this moment](./profile-3d-contrib/profile-season-animate.svg)
